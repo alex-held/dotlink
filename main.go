@@ -33,7 +33,7 @@
 //	dotlink new ~/dotfiles/nvim
 package main
 
-import "dotlink/cmd"
+import "github.com/alex-held/dotlink/cmd"
 
 func main() {
 	cmd.Execute()

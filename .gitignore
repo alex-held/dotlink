@@ -172,3 +172,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Added by goreleaser init:
+dist/
